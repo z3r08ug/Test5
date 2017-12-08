@@ -8,6 +8,7 @@
     tools:context="com.example.chris.test5.NewsActivity">
 
     <TextView
+        android:id="@+id/tvNews"
         android:textStyle="bold"
         android:text="News:"
         android:textSize="36sp"
